@@ -1,4 +1,4 @@
-# Inference Engineering 101 — The 20% That Drives 80%
+# The 20% That Drives 80%
 
 Inference engineering is nothing but how one can decrease the gap between what a machine can actually perform and how it's performing now. Simple as that.
 
